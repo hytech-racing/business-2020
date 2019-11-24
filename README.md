@@ -17,3 +17,9 @@ Repository for code created by HyTech Business and Project Management subteam.
 5. Clone this repository to your computer using the URLs:
     * SSH: `git@github.com:hytech-racing/business-2020.git`
     * HTTPS: `https://github.com/hytech-racing/business-2020.git`
+
+## More Information
+* [Software Guide](https://docs.google.com/document/d/1GRkLYabQtMDBhLXM44oBZ6nKhDef6TY2_k2GFT-w2gI/edit?usp=sharing)
+* [Team Site](https://hytechracing.gatech.edu/)
+* [Facebook](https://www.facebook.com/HyTechRacing/)
+* [Engage](https://gatech.campuslabs.com/engage/organization/hytech-racing)
