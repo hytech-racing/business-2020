@@ -23,3 +23,6 @@ Repository for code created by HyTech Business and Project Management subteam.
 * [Team Site](https://hytechracing.gatech.edu/)
 * [Facebook](https://www.facebook.com/HyTechRacing/)
 * [Engage](https://gatech.campuslabs.com/engage/organization/hytech-racing)
+
+## License
+This project is licensed under the GPL License v3.0. See the [LICENSE](LICENSE) file for more information.
